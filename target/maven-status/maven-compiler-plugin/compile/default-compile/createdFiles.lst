@@ -1,0 +1,10 @@
+com\demo\pruebasunitariascabinas\service\ServiceUniversal.class
+com\demo\pruebasunitariascabinas\service\ServiceSolicitud.class
+com\demo\pruebasunitariascabinas\models\Cabina.class
+com\demo\pruebasunitariascabinas\models\Solicitud.class
+com\demo\pruebasunitariascabinas\models\Usuario.class
+com\demo\pruebasunitariascabinas\service\ServiceCabina.class
+com\demo\pruebasunitariascabinas\models\Estacion.class
+com\demo\pruebasunitariascabinas\PruebasUnitariasCabinas.class
+com\demo\pruebasunitariascabinas\service\ServiceEstacion.class
+com\demo\pruebasunitariascabinas\service\ServiceUsuario.class
